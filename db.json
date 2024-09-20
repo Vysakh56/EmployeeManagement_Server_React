@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": "1726831055531",
+      "userName": "Vysakh",
+      "email": "vysakh@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "1726831068571",
+      "userName": "Juna",
+      "email": "juna@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "1726831086132",
+      "userName": "Gayathry",
+      "email": "gayathry@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "1726831107404",
+      "userName": "Abhay",
+      "email": "abhay@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "1726831117772",
+      "userName": "adarsh",
+      "email": "adarsh@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "1726831129284",
+      "userName": "ashwin",
+      "email": "ashwin@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "1726831144503",
+      "userName": "mary",
+      "email": "mary@yahoo.com",
+      "status": "active"
+    },
+    {
+      "id": "1726831158428",
+      "userName": "alen",
+      "email": "alen@gmail.com",
+      "status": "inactive"
+    }
+  ]
+}
